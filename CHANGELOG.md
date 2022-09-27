@@ -1,3 +1,9 @@
+## Unreleased
+
+### Fixed
+* Fixed the sendability of `dataTask` for `URLSessionProtocol`
+* [Demo] Fixed compiling version to be 11.0 to match minimum version required by a dependency
+
 ## [0.22.3] - 2022-09-08
 
 ### Fixed
